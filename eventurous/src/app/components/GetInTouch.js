@@ -259,7 +259,7 @@ const GetInTouch = () => {
           </div>
         </div>
         {/* <p className="text-xs mt-10">Presence In</p> */}
-        <div className="flex space-x-10 text-3xl font-bold  mt-14">
+        <div className="flex space-x-10 text-xl md:text-3xl lg:text-3xl justify-center md:justify-start lg:justify-start font-bold  mt-14">
           <div>
             <p
               style={{
@@ -300,11 +300,11 @@ const GetInTouch = () => {
             >
               30 Min
             </p>
-            <p className="text-gray-700">Quick Quote</p>
+            <p className="text-gray-700 ">Quick Quote</p>
           </div>
         </div>
       </div>
-      <div className="bg-[#fa8109] max-h-[70vh] min-w-[35vw] ">
+      <div className="bg-[#fa8109] max-h-auto min-w-[35vw] ">
         <ContactForm />
       </div>
     </div>

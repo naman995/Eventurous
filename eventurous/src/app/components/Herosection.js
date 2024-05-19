@@ -19,9 +19,25 @@ const Herosection = () => {
             execution, we handle every detail with professionalism and
             precision, ensuring your event is both impactful and memorable.
           </p>
+          <p className="text-xl sm:text-2xl md:text-2xl mb-5 mt-5 text-yellow-300">
+            Our Promise
+          </p>
+          <p className="">
+            At Eventurous, we promise to deliver unparalleled service and
+            unforgettable experiences. Our commitment to excellence and
+            attention to detail ensures that every event we manage is a
+            resounding success. Let us take your corporate and business events
+            to new heights with our expertise and passion. Explore the endless
+            possibilities with Eventurous. Contact us today to start planning
+            your next great event.
+          </p>
         </div>
         <div className="flex justify-center md:justify-start mb-6 md:mb-0">
-          <img className="w-[350px]" src="/logo.png" alt="Eventurous Logo" />
+          <img
+            className="w-[350px] h-[300px]"
+            src="/logo.png"
+            alt="Eventurous Logo"
+          />
         </div>
       </div>
     </div>
