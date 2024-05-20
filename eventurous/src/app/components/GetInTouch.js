@@ -260,7 +260,7 @@ const GetInTouch = () => {
         </div>
         {/* <p className="text-xs mt-10">Presence In</p> */}
         <div className="flex space-x-10 text-xl md:text-3xl lg:text-3xl justify-center md:justify-start lg:justify-start font-bold  mt-14">
-          <div>
+          {/* <div>
             <p
               style={{
                 background:
@@ -273,7 +273,7 @@ const GetInTouch = () => {
               127+
             </p>
             <p className="text-gray-700">Activities</p>
-          </div>
+          </div> */}
           {/* <div>
             <p
               style={{
@@ -288,7 +288,7 @@ const GetInTouch = () => {
             </p>
             <p className="text-gray-700">Participants</p>
           </div> */}
-          <div>
+          {/* <div>
             <p
               style={{
                 background:
@@ -301,7 +301,7 @@ const GetInTouch = () => {
               30 Min
             </p>
             <p className="text-gray-700 ">Quick Quote</p>
-          </div>
+          </div> */}
         </div>
       </div>
       <div className="bg-[#fa8109] max-h-auto min-w-[35vw] ">

@@ -32,13 +32,13 @@ const Herosection = () => {
             your next great event.
           </p>
         </div>
-        <div className="flex justify-center md:justify-start mb-6 md:mb-0">
+        {/* <div className="flex justify-center md:justify-start mb-6 md:mb-0">
           <img
             className="w-[350px] h-[300px]"
             src="/logo.png"
             alt="Eventurous Logo"
           />
-        </div>
+        </div> */}
       </div>
     </div>
   );
