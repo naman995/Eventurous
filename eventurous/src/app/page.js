@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <main>
       <Head>
-        <title>My Page Title</title>
+        <title>Eventurous</title>
         <meta
           name="description"
           content="Eventurous offers full-service event management for 
