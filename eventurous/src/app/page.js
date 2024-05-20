@@ -4,6 +4,7 @@ import EventSection from "./components/EventSection";
 import GetInTouch from "./components/GetInTouch";
 import Herosection from "./components/Herosection";
 import OurService from "./components/OurService";
+import Footer from "./components/Footer";
 
 import Head from "next/head";
 export default function Home() {
@@ -49,7 +50,7 @@ export default function Home() {
       <EventGallery />
       <OurService />
       <EventPrograms />
-      {/* <Footer /> */}
+      <Footer/>
     </main>
   );
 }
